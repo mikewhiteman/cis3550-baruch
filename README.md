@@ -1,2 +1,2 @@
 # cis3550-baruch
-Code examples for CIS 3550 Cybersecurity students @ Baruch
+Simple vulnerable cookie authN logic example for my Spring 2020 CIS3550 Intro to Cybersecurity course. 
